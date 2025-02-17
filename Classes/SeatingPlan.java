@@ -1,3 +1,5 @@
+package Classes;
+
 public class SeatingPlan {
     private int seatingPlanId;
     private int venueId;

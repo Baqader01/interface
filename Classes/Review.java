@@ -1,3 +1,5 @@
+package Classes;
+
 public class Review {
     private int reviewId;
     private int activityId;

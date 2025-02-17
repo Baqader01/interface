@@ -1,3 +1,5 @@
+package Classes;
+
 public class FriendOfLancaster {
     private int friendId;
     private int customerId;
